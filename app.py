@@ -2,8 +2,8 @@ import streamlit as st
 from helper import search_frame, get_keyframes_data, read_video, write_video_clip
 import os
 
-st.set_page_config(page_title='Video CLIP Indexer', page_icon='🔍')
-st.title('Video CLIP Indexer')
+st.set_page_config(page_title='Jina CLIP Lens', page_icon='🔍')
+st.title('Jina CLIP Lens')
 
 uploaded_file = st.file_uploader('Choose a file')
 text_prompt = st.text_input('Text Prompt', '')
