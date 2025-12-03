@@ -1,4 +1,4 @@
-# Video-CLIP-Indexer
+# Jina CLIP Lens
 A GUI short-video 'clip' indexer powered by Jina CLIP v2.
 
 ## Basic Usage
